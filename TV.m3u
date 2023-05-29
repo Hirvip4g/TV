@@ -594,7 +594,7 @@ https://ott-linear-channels.stingray.com/128/master.m3u8
 #EXTINF:-1 tvg-logo="https://dominio.beauty/img/garagetv.png" group-title="Deportes", Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg", All Sports 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg"group-title="Deportes, All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dplnews.com/wp-content/uploads/2021/09/dplnews_tigo_vc_020921-696x569.png", Tigo Sports GT
@@ -1535,7 +1535,7 @@ http://181.189.243.254:8000/play/a0sf/index.m3u8
 http://181.189.243.254:8000/play/a0t6/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0rb.png",ESPN 3
 http://181.189.243.254:8000/play/a0rb/index.m3u8
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t5.png",ESPN 3 HD
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t5.png"group-title="Deportes, ESPN 3 HD
 http://181.189.243.254:8000/play/a0t5/index.m3u8
 #EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0t4.png",ESPN HD
 http://181.189.243.254:8000/play/a0t4/index.m3u8
